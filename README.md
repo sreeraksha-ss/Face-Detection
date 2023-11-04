@@ -6,7 +6,7 @@ or multi faces on a single image
 
 The steps include:
 * Reading the image
-* addting rectangle on faces
-* putting text and also saving using cv2
+* Adding rectangle on faces
+* Putting text on detected face and also saving using cv2
   
 
